@@ -6,4 +6,4 @@ vision board - photography - 10/27/2021
   <img src="IMG_1484.jpeg">
   <img src="IMG_1482.jpeg">
   <img src="IMG_1490.jpeg">
-<stop>
+<p>"<stop>"</p>
